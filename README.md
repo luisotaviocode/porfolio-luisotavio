@@ -16,4 +16,4 @@ Este é um portfólio criado por **Luis Otávio Barreto Dantas**, na qual serve 
 
 **Conheça mais sobre a minha história como estudante de programação e desenvolvimento Full-Stack**
 
-*O link versão BETA so site ainda será disponibilizado futuramente*
+## Link para o site: [***https://luisotaviocode.github.io/porfolio-luisotavio/***](https://luisotaviocode.github.io/porfolio-luisotavio/)
