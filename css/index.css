@@ -1,0 +1,42 @@
+/* Paleta de Cores */
+:root{
+    --tom-preto1: #0f0f0f;
+    --tom-preto2: #1A1A1A;
+
+    --tom-cinza1: #323336;
+    --tom-cinza2: #393631;
+
+    --tom-branco1: #F5F5F5;
+    --tom-branco2: #FFFFFF;
+
+    --tom-azul1: #003C8F;
+    --tom-azul2: #002E6E;
+    --tom-azul3: #1678FF;
+    --tom-azul4: #024FFF;
+
+    --tom-dourado1: #b28405;
+    --tom-dourado2: #efb810;
+    --tom-dourado3: #a87b05;
+}
+
+/* Fonte Science Gothic */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Science+Gothic:wght@100..900&display=swap');
+
+@font-face {
+    font-family: 'Science Gothic';
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Science+Gothic:wght@100..900&display=swap');
+}
+
+/* Fonte Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Science+Gothic:wght@100..900&display=swap');
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Science+Gothic:wght@100..900&display=swap');
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
